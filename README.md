@@ -6,6 +6,6 @@ Tasks will be given and collected here. You have to describe any approach while 
 
 The report will be written using **markdown**, a markup languange. This languange allows you to write clear and compact report.
 
-Learn about **markdown** [here](/markdown.md).
+The taskses already [here](/task).
 
 > All reports written in English.
