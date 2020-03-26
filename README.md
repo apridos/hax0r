@@ -1,6 +1,6 @@
 ### Welcome to **hax0r** repository.
 
-Tasks will be given and collected here. You will have to describe any approach while doing each task on a report.
+Tasks will be given and collected here. You have to describe any approach while doing each task on a report.
 
 **__Write your report right on your own directory.__**
 
