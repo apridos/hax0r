@@ -48,8 +48,10 @@ for(int i = 1 ; i < 7 ; i++){	// This line called head
 return 0;
 ```
 
-`int i = 0` you initialize `i` as zero right here. You may call `i` as iterator variable
+`int i = 0` you initialize `i` as zero right here. You may call `i` as iterator variable.
+
 `i < 7` look, you may change `7` to any integer or variable that store integer. Let's just assume you have initialize `x` as 10 before, now you can tell that `i < x` equals to `i < 10`.
+
 `i++` is incremental operation, it will increase `i` by one for each **body** execution completed.
 
 > The incremental operation executed once the **body** execution completed. 
