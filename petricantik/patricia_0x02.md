@@ -80,3 +80,28 @@ int main()
     
 }
 ```
+### 3. While (1 == 1)
+
+```
+#include <stdio.h>
+
+int main()  
+{ 
+   int i = 0; 
+   int q;
+   printf("Input: ");
+   scanf("%d", &q);
+   while ( 1 == 1 )  
+   {   
+      printf( "%d\n", ++i ); 
+      if (i == q)      
+           break;
+  
+   } 
+   return 0; 
+} 
+```
+
+### 4. The Meaning of while(1==1)
+
+It is an infinite loop which will run till a break statement is issued explicitly. Interestingly not while (1 == 1) but any integer which is non-zero will give the similar effect as while (1 == 1). Therefore, while(1), while(2) or while(-255), all will give infinite loop only.
