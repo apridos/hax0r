@@ -1,4 +1,4 @@
-## Patricia’s
+## *Patricia’s*
 
 ### 1. The difference between **_declaration_** and **_initialization_**.
   _Declaration_ of a variable specifies its name and datatype. Declaration does not create a variable; it's only refers to a variable name and what type of data the variable will hold, so memory is not allocated at the time of declaration.
@@ -112,5 +112,5 @@ It is an infinite loop which will run till a break statement is issued explicitl
 
 
 
-> please share, comment, and suscribes, because suscribes is free
+> please share, comment, and suscribes, because suscribes is free.
 ***@patriciasibarani***
