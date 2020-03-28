@@ -1,6 +1,6 @@
 ## Patricia’s
 
-### 1. The difference between **_declaration_** and **_initialization_**.
+`### 1. The difference between **_declaration_** and **_initialization_**.`
   _Declaration_ of a variable specifies its name and datatype. Declaration does not create a variable; it's only refers to a variable name and what type of data the variable will hold, so memory is not allocated at the time of declaration.
   
   `int i; /* Declaration */`
@@ -9,7 +9,7 @@
   
   `int i = 10;`
 
-### 2. FOR LOOP, WHILE LOOP, AND DO... WHILE LOOP
+`### 2. FOR LOOP, WHILE LOOP, AND DO... WHILE LOOP`
 
  **For Loop**
  
@@ -80,7 +80,7 @@ int main()
     
 }
 ```
-### 3. While (1 == 1)
+### 3. A While Loop with While (1 == 1)
 
 ```
 #include <stdio.h>
@@ -102,6 +102,10 @@ int main()
 } 
 ```
 
-### 4. The Meaning of while(1==1)
+### 4. The Meaning of While (1==1)
 
 It is an infinite loop which will run till a break statement is issued explicitly. Interestingly not while (1 == 1) but any integer which is non-zero will give the similar effect as while (1 == 1). Therefore, while(1), while(2) or while(-255), all will give infinite loop only.
+
+> please share, comment, and suscribes
+> because suscribes is free
+`@patriciasibarani`
