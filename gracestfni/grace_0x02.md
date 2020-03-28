@@ -110,6 +110,6 @@
 
 4. Equal To Operator (==)
 
-(==) is anEqual To Operator in C and C++ only
+   (==) is anEqual To Operator in C and C++ only
 
-so, while(1==1) means while 1 equals 1 the value is true
+   so, while(1==1) means while 1 equals 1 the value is true
