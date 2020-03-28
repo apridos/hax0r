@@ -8,6 +8,7 @@
   _Initialization_. When a variable is declared it contains undefined value commonly known as garbage value. If we want we can assign some initial value to the variable during the declaration itself, this is called initialization of the variable.
   
   `int i = 10;`
+  
 
 ### 2. FOR LOOP, WHILE LOOP, AND DO... WHILE LOOP
 
@@ -80,6 +81,7 @@ int main()
     
 }
 ```
+
 ### 3. A While Loop with While (1 == 1)
 
 ```
@@ -105,6 +107,8 @@ int main()
 ### 4. The Meaning of While (1==1)
 
 It is an infinite loop which will run till a break statement is issued explicitly. Interestingly not while (1 == 1) but any integer which is non-zero will give the similar effect as while (1 == 1). Therefore, while(1), while(2) or while(-255), all will give infinite loop only.
+
+
 
 
 
