@@ -25,14 +25,14 @@
     int n;
     
     scanf("%d", &n);
-    for (int i = 17 ; i < n ; i++)
+    for (int i = 1 ; i < n ; i++)
     {
       if (i % 4 == 0 || i % 3 == 0)
         {
            printf("%d\n", i);
         }
     }
-    return 0
+    return 0;
 }
 ```
 
