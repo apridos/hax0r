@@ -2,109 +2,111 @@
 
    **Initialization** : refers to the "assignment" of a value, at construction time. For a generic object of type.
  
-2.  **For Loop**
-
-  '#include <stdio.h>'
+2. **For Loop**
+	
+		'#include <stdio.h>'
   
-'int main()'
+		'int main()'
 
-'{'
+		'{'
 
-'  int i;'
+		'int i;'
 
-'  for(i=1;i<100;i++)'
+		'for(i=1;i<100;i++)'
 
-'	{if(i%3==0 && i%4==0)'
+		'{if(i%3==0 && i%4==0)'
 
 		'printf ("%i\n",i);'
     
-'	}'
+		'}'
 
-'	 return 0;'
+		'return 0;'
 
-'}'
+		'}'
 
 
 **While Loop**
 
-'#include <stdio.h>' 
+	'#include <stdio.h>' 
 
-'int main()'
+	'int main()'
 
-'{'
+	'{'
 
-'  int i = 1;'
+	'int i = 1;'
 
-'  int j=100;'
+	'int j=100;'
 
-'  while (!(i==j))'
+	'while (!(i==j))'
 
-'  {'
+	'{'
 
-'	  if(i%3==0 && i%4==0)'
+	'if(i%3==0 && i%4==0)'
 
-'	  printf("%i \n",i);'
+	'printf("%i \n",i);'
 
-'    i++;'  
+	'i++;'  
 
-'  }'
+	'}'
 
-'  return 0;'
+	'return 0;'
 
-'}'
+	'}'
 
 
 **Do...while Loop**
 
-'#include <stdio.h>'
+	'#include <stdio.h>'
 
-'int main()'
+	'int main()'
 
-'{'
+	'{'
 
-'  int i = 1;'
+	'int i = 1;'
 
-'  int j=100;'
+	'int j=100;'
 
-'  do {'
+	'do {'
 
-'	  if(i%3==0 && i%4==0)'
+	'if(i%3==0 && i%4==0)'
 
-'	  printf("%i \n",i);'
+	'printf("%i \n",i);'
 
-'    i++;'
+	'i++;'
 
-'  }'
+	'}'
 
-'  while (!(i==j));'
+	'while (!(i==j));'
 
-'  return 0;'
+	'return 0;'
 
-'}'
+	'}'
 
-3.  '#include <stdio.h>' 
+3. Nomor 3
 
-'int main()'
+		'#include <stdio.h>' 
 
-'{'
+		'int main()'
 
-'  int i=1;'
+		'{'
 
-'  int q;'
+		'int i=1;'
 
-'  scanf("%d",&q);'
+		'int q;'
 
-'  while (!(i==q)){'
+		'scanf("%d",&q);'
 
-'    printf("%i\n",i);'
+		'while (!(i==q)){'
 
-'    i++;'
+		'printf("%i\n",i);'
 
-'  }'
+		'i++;'
 
-'  return 0;'
+		'}'
 
-'}'
+		'return 0;'
+
+		'}'
 
 4. Equal To Operator (==)
 
