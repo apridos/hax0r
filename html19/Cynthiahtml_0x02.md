@@ -29,6 +29,7 @@ int main()
   return 0;
 }
 
+
 b.While Loop
 
 #include <stdio.h>
@@ -43,7 +44,7 @@ int main ()
    while (i < n)
    
    {
-       if (i % 4 == 0 || i % 3 == 0)
+       if (i% 4 == 0 || i% 3 == 0)
        
    	printf ("%d\n", i);
        i++;
@@ -51,6 +52,7 @@ int main ()
 
    return 0;   
 }
+
 
 c.Do... While Loop
 
@@ -65,7 +67,7 @@ int main()
     scanf("%d", &n);
     do
     {
-        if (i % 4 == 0 || i % 3 == 0)
+        if (i% 4 == 0 || i% 3 == 0)
         printf ("%d\n", i);
         i++;
     }
@@ -73,4 +75,11 @@ int main()
     return  0;
     
 }
+
 3.??
+
+4.
+(==) to express the condition of equality
+If 1 == 1 it means true because the value is the same
+
+So the road is while
