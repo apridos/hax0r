@@ -83,3 +83,5 @@ Strukturnya akan terlihat seperti ini
 | 1 | 1,0 | 1,1 | 1,2 |
 
 
+
+
